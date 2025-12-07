@@ -1,9 +1,19 @@
-# JavaScript-Projects
-A collection of JavaScript projects and assignments completed during my coursework.
-# JavaScript Projects
+# JavaScript Course Projects
 
-This repository contains all JavaScript coding projects, assignments, and challenges completed during this course.
+This repository contains the JavaScript projects I completed during my course.
 
-The purpose of this repository is to track my progress, practice version control with GitHub, and build a portfolio of JavaScript work. All code submitted throughout the course will be stored here and will not be deleted unless instructed.
+## Project 1: Basic Calculator
+- Description: A simple calculator that performs addition, subtraction, multiplication, and division.
+- Technologies: HTML, CSS, JavaScript
 
-This repository will be updated regularly as new projects and exercises are completed.
+## Project 2: To-Do List App
+- Description: A to-do list application where I can add, mark, and remove tasks.
+- Technologies: HTML, CSS, JavaScript (DOM manipulation)
+
+## Project 3: Image Slider
+- Description: An image slider with next/previous buttons and automatic transitions.
+- Technologies: HTML, CSS, JavaScript
+
+## Project 4: Personal Portfolio Website
+- Description: A personal portfolio website built using HTML, CSS, and JavaScript and deployed with GitHub Pages.
+- Live Link: https://anjanaudayan.github.io/personal-portfolio/
